@@ -1,4 +1,4 @@
-<!-- Essa estrutura criei com a ajuda da IA GPT. 
+Essa estrutura criei com a ajuda da IA GPT. 
 
 Mas a ideia que estou tento é mais macro. Criei o GitHub Pages, para linkar essa paginas hmtl lá!
 
@@ -24,4 +24,4 @@ em formato de site.
 
 Só que para isso tive que criar o GitHub Pages que não tinha.
 Criar a estrutura html do meu Git Gub Pages que não entendo muito ainda para rastrear meus projetinhos e linkar tudo lá (https://andreluisdev.github.io/)
-GitHub pages para publicar em unico lugar meus "intentos de tela pretas e errors kkkkk"-->
+GitHub pages para publicar em unico lugar meus "intentos de tela pretas e errors kkkkk"
