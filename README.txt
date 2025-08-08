@@ -1,4 +1,4 @@
-| ----------------Explicando o Projeto ------------- |
+Explicando o Projeto 
 
   1 - Essa estrutura criei com a ajuda da IA GPT
   2 - Mas a ideia que tive, foi uma intenção MACRO de criação de página web. Criei o GitHub Pages, para linkar essa pagina hmtl lá (index.hmlt <- código em C);
@@ -10,22 +10,22 @@
   7 - Mas o WordPress tem que pagar para adicionar pluguins e extensões, certo? Aí, para converter meu código C para JS direto no navegador pelo motor de interpretação V8, mas eu não tenho como agora fui na instrução da IA e minha expertise.
   8 - Criei meu GitHub pages gratuito, para hospedar minimamente o código Java Script e html no formato.html. A ideia é hospedar outros projetos também no GitHub Pages.
 
--------------------------------------------------
+
 Já possuo - Linkedin para meus artigos, Git Hub para repositórios de projetos, GitHub pages para páginas web e WordPress para artigos. Sinto que estou evoluindo!
 https://www.linkedin.com/in/andrealsl/
 https://github.com/AndreLuisDev/AndreLuisDev
 https://andreluisdev.github.io/
 https://tisemcurso.wordpress.com/
------------------------------------------------
 
-| ---------------- CONCLUSÃO ------------- |
+
+ CONCLUSÃO 
     -> Entendi que dava para pegar o URL link ou iframe do código index.html traduzido de C para JS+Html (com o Scwitch case em C que criei) para colocar no Bloco Pernolizado do WordPress, pois teria um "mini-codigo-html-NO_AR" em formato de site.
     -> Infelizmente, e sabiamente, essa funcionalidade não roda no WorPress também, devido a custos da plataforma
 
     
-   ******** ENTÃO EU DEIXEI O LINK LÁ. CLIANDO ABRE A PÁGINA DIRETAMENTE E RODA O MENU (https://andreluisdev.github.io/ti-sem-curso-switch-case-c/) *****
+ ENTÃO EU DEIXEI O LINK LÁ. CLIANDO ABRE A PÁGINA DIRETAMENTE E RODA O MENU (https://andreluisdev.github.io/ti-sem-curso-switch-case-c/)
 
 
- TAREFAS EXTRAS EXECUTADAS:
-   A) Criar o GitHub Pages que não tinha;
-   B) Criar a estrutura html do meu Git GubPages que não entendo muito ainda para rastrear meus projetos eu um único lugar e linkar tudo lá (https://andreluisdev.github.io/) meus "intentos de tela pretas e errors kkkkk"
+TAREFAS EXTRAS EXECUTADAS:
+ A) Criar o GitHub Pages que não tinha;
+ B) Criar a estrutura html do meu Git GubPages que não entendo muito ainda para rastrear meus projetos eu um único lugar e linkar tudo lá (https://andreluisdev.github.io/) meus "intentos de tela pretas e errors
