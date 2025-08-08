@@ -1,27 +1,31 @@
-Essa estrutura criei com a ajuda da IA GPT. 
+| ----------------Explicando o Projeto ------------- |
 
-Mas a ideia que estou tento é mais macro. Criei o GitHub Pages, para linkar essa paginas hmtl lá!
+  1 - Essa estrutura criei com a ajuda da IA GPT
+  2 - Mas a ideia que tive, foi uma intenção MACRO de criação de página web. Criei o GitHub Pages, para linkar essa pagina hmtl lá (index.hmlt <- código em C);
+  3 - Eu tenho um blog sobre meus estudos de programação e trago para interessados assuntos de forma descomplicada (https://tisemcurso.wordpress.com/);
 
-Eu tenho um blog sobre o meu meus estudos de programação e trago para interessados assuntos de forma desconplicada!
+  4 - Quando estava criando um artigo sobre a jornada de estudos, tive uma sacada de um código em JS e html de forma lúdica lá no meu BLOG DO WORD PRESS.
+  5 - Com a ajuda da ia criei o menu de opção em C (pois estou relembrando conceito), mas o código C não roda no bloco do WordPress. O interpretador dele é pago e eu não há interesse agora em comprar o plano;
+  6 - Ai fiz uma sacada: incluer um SWITCH CASE EM Linguagem C dentro do meu WordPreess, mas traduzida para JC e Html (outra matéria que estava estudando - Paradimgas de Linguagens de Programação);
+  7 - Mas o WordPress tem que pagar para adicionar pluguins e extensões, certo? Aí, para converter meu código C para JS direto no navegador pelo motor de interpretação V8, mas eu não tenho como agora fui na instrução da IA e minha expertise.
+  8 - Criei meu GitHub pages gratuito, para hospedar minimamente o código Java Script e html no formato.html. A ideia é hospedar outros projetos também no GitHub Pages.
 
-Fiz um artigo e tique uma sacada de Criar esse códido JS com html de forga lúdica lá no meu BLOG DO WORD PRESS. Mas o código em C no bloco do Word Press não roda. O interpretador dele é pago e eu não posso agora!
-
-Fiz uma sacada para incluer um SWITCH CASE EM Linguagem C dentro do meu WordPreess.
-
-Mas o WordPress tem que pagar para adicionar pluguins e extensoes para converter meu código C para JS direto no navegador pelo motor de interpretação V8, mas eu não tenho como agora
-
-Então a ideia que tive, conforme a instrução da IA e minha expertise, foi abrir um Git Hub pages gratuito, hospedar minimamente o código Java Script e html aqui e outra paginas que vier 
-a construir para que apareçam no meu GitHub Pages.
-
-Já tenho linkin para artigos, git hub para projetos, Git Hub pages para páginas e Word Press para artigos, estou evoluindo
+-------------------------------------------------
+Já possuo - Linkedin para meus artigos, Git Hub para repositórios de projetos, GitHub pages para páginas web e WordPress para artigos. Sinto que estou evoluindo!
 https://www.linkedin.com/in/andrealsl/
 https://github.com/AndreLuisDev/AndreLuisDev
 https://andreluisdev.github.io/
 https://tisemcurso.wordpress.com/
+-----------------------------------------------
 
-Entendi que dava para pegar o URL link ou iframe dessa index.html (com o Scwitch case em C que criei) e tentar colocar no Bloco Pernolizado do WordPress em HTML Pernosalizado, pois teria um "mini-codigo-html-NO_AR"
-em formato de site.
+| ---------------- CONCLUSÃO ------------- |
+    -> Entendi que dava para pegar o URL link ou iframe do código index.html traduzido de C para JS+Html (com o Scwitch case em C que criei) para colocar no Bloco Pernolizado do WordPress, pois teria um "mini-codigo-html-NO_AR" em formato de site.
+    -> Infelizmente, e sabiamente, essa funcionalidade não roda no WorPress também, devido a custos da plataforma
 
-Só que para isso tive que criar o GitHub Pages que não tinha.
-Criar a estrutura html do meu Git Gub Pages que não entendo muito ainda para rastrear meus projetinhos e linkar tudo lá (https://andreluisdev.github.io/)
-GitHub pages para publicar em unico lugar meus "intentos de tela pretas e errors kkkkk"
+    
+   ******** ENTÃO EU DEIXEI O LINK LÁ. CLIANDO ABRE A PÁGINA DIRETAMENTE E RODA O MENU (https://andreluisdev.github.io/ti-sem-curso-switch-case-c/) *****
+
+
+ TAREFAS EXTRAS EXECUTADAS:
+   A) Criar o GitHub Pages que não tinha;
+   B) Criar a estrutura html do meu Git GubPages que não entendo muito ainda para rastrear meus projetos eu um único lugar e linkar tudo lá (https://andreluisdev.github.io/) meus "intentos de tela pretas e errors kkkkk"
