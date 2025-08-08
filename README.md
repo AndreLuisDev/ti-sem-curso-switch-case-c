@@ -25,4 +25,3 @@ em formato de site.
 Só que para isso tive que criar o GitHub Pages que não tinha.
 Criar a estrutura html do meu Git Gub Pages que não entendo muito ainda para rastrear meus projetinhos e linkar tudo lá (https://andreluisdev.github.io/)
 GitHub pages para publicar em unico lugar meus "intentos de tela pretas e errors kkkkk"-->
-
