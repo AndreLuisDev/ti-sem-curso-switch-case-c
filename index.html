@@ -1,59 +1,115 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-    <meta charset="UTF-8">
-    <title>TI sem curso - Switch Case</title>
+  <meta charset="UTF-8">
+  <title>TI sem curso - Switch Case</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      background-color: #fdfdfd;
+      color: #333;
+    }
+
+    h2 {
+      color: #005a9c;
+      margin-bottom: 15px;
+    }
+
+    select, button {
+      padding: 8px 12px;
+      font-size: 16px;
+      margin-right: 10px;
+      margin-top: 10px;
+    }
+
+    button {
+      background-color: #005a9c;
+      color: white;
+      border: none;
+      cursor: pointer;
+      border-radius: 4px;
+    }
+
+    button:hover {
+      background-color: #004080;
+    }
+
+    #saida {
+      background: #f5f5f5;
+      padding: 15px;
+      margin-top: 20px;
+      border-left: 4px solid #005a9c;
+      white-space: pre-wrap;
+    }
+
+    .contador {
+      text-align: center;
+      margin-top: 40px;
+      font-size: 16px;
+      color: #555;
+    }
+
+    .contador img {
+      margin-top: 8px;
+    }
+  </style>
 </head>
-<body style="font-family: Arial, sans-serif; padding: 20px;">
+<body>
 
-    <h2>=== TI sem curso: descomplicando a programação para iniciantes ===</h2>
-    <p>Escolha uma opção abaixo para ver a mensagem:</p>
+  <h2>=== TI sem curso: descomplicando a programação para iniciantes ===</h2>
+  <p>Escolha uma opção abaixo para ver a mensagem:</p>
 
-    <select id="opcao">
-        <option value="1">Sem qualificações formais</option>
-        <option value="2">Sem área definida para atuar</option>
-        <option value="3">Iniciando estudos e explorando conceitos</option>
-        <option value="4">Colocando em prática e ganhando experiência</option>
-        <option value="5">Carreira nos trilhos</option>
-    </select>
+  <select id="opcao">
+    <option value="1">Sem qualificações formais</option>
+    <option value="2">Sem área definida para atuar</option>
+    <option value="3">Iniciando estudos e explorando conceitos</option>
+    <option value="4">Colocando em prática e ganhando experiência</option>
+    <option value="5">Carreira nos trilhos</option>
+  </select>
 
-    <button id="btnExecutar">Executar</button>
+  <button id="btnExecutar">Executar</button>
 
-    <pre id="saida" style="background:#f5f5f5; padding:10px; margin-top:10px;"></pre>
+  <pre id="saida"></pre>
 
-    <script>
+  <script>
     document.getElementById('btnExecutar').addEventListener('click', function() {
-        let opcao = document.getElementById("opcao").value;
-        let saida = document.getElementById("saida");
+      let opcao = document.getElementById("opcao").value;
+      let saida = document.getElementById("saida");
 
-        switch (parseInt(opcao)) {
-            case 1:
-                saida.textContent = "Você está no começo, sem qualificações formais.\nNão se preocupe, todo especialista já foi iniciante!";
-                break;
-            case 2:
-                saida.textContent = "Você ainda não sabe qual área seguir.\nExplore, teste e descubra o que desperta sua curiosidade!";
-                break;
-            case 3:
-                saida.textContent = "Você está mergulhando em conceitos.\nAgora é hora de transformar teoria em ação!";
-                break;
-            case 4:
-                saida.textContent = "Você começou a colocar a mão na massa.\nCada projeto é um passo para a experiência real.";
-                break;
-            case 5:
-                saida.textContent = "Sua carreira está nos trilhos.\nContinue praticando e se atualizando!";
-                break;
-            default:
-                saida.textContent = "Somente a prática poderá moldar seus conhecimentos!";
-                break;
-        }
+      switch (parseInt(opcao)) {
+        case 1:
+          saida.textContent = "Você está no começo, sem qualificações formais.\nNão se preocupe, todo especialista já foi iniciante!";
+          break;
+        case 2:
+          saida.textContent = "Você ainda não sabe qual área seguir.\nExplore, teste e descubra o que desperta sua curiosidade!";
+          break;
+        case 3:
+          saida.textContent = "Você está mergulhando em conceitos.\nAgora é hora de transformar teoria em ação!";
+          break;
+        case 4:
+          saida.textContent = "Você começou a colocar a mão na massa.\nCada projeto é um passo para a experiência real.";
+          break;
+        case 5:
+          saida.textContent = "Sua carreira está nos trilhos.\nContinue praticando e se atualizando!";
+          break;
+        default:
+          saida.textContent = "Somente a prática poderá moldar seus conhecimentos!";
+          break;
+      }
     });
-    </script>
-<div class="contador">
+  </script>
+
+  <div class="contador">
     <p>Número de visitas ao site:</p>
     <a href="https://www.hitwebcounter.com" target="_blank">
-        <img src="https://hitwebcounter.com/counter/counter.php?page=21376620&style=0036&nbdigits=5&type=page&initCount=0" title="Contador de 
-          visitas" alt="Contador de visitas" border="0" />
+      <img src="https://hitwebcounter.com/counter/counter.php?page=21397831&style=0034&nbdigits=4&type=page&initCount=0" 
+           title="Contador de visitas" 
+           alt="Contador de visitas" 
+           border="0" />
     </a>
-</div>
+  </div>
+
 </body>
 </html>
